@@ -1,4 +1,3 @@
 # NEW-PR-CHECKS
-
-
-### links are ----- http://www.example.com
+**Description:**
+The Project details the security checks to be performed on PR
